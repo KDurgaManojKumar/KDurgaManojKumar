@@ -1,3 +1,5 @@
+![Your paragraph text](https://user-images.githubusercontent.com/100594641/229374283-483bc79f-c42f-47c8-8731-b209b03e31e8.png)
+
 <h1 align="center">Hi 👋, I'm K Durga Manoj Kumar (KDM)</h1>
 <h3 align="center">Data Analysis | Business Analytics | from India</h3>
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/manoj1203](https://www.novypro.com/profile_projects/manoj1203)
